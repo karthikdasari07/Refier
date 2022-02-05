@@ -1,7 +1,7 @@
 {
   "name": "reifer",
   "version": "0.1.0",
-  "homepage": "file:///E:/assignmentt/reifer/public/index.html",
+  "homepage": "https://karthikdasari07.github.io/refier/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "private": true,
